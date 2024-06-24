@@ -1,16 +1,18 @@
 # flutter_app_24_06_2024
 
-A new Flutter project.
+## Capturas del proyecto
 
-## Getting Started
+### Finalización del programa
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Washitox/Flutter-app/assets/117743091/09c4f142-b27a-4442-8e0a-5702162955c8)
 
-A few resources to get you started if this is your first Flutter project:
+### Perfil de favoritos
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/Washitox/Flutter-app/assets/117743091/6f918ba8-726c-4ab7-b811-094e88879774)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home
+
+![image](https://github.com/Washitox/Flutter-app/assets/117743091/fe07adc9-073e-4a55-9780-6c8c8aef0b2b)
+
+
+
